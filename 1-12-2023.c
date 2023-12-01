@@ -1,7 +1,7 @@
 #include <stdio.h> // std = standard, i = input, o = output
 
 int main() {
-    // Basic (printf and scanf)
+    // Basic I/O function (printf and scanf)
     printf("- BASIC -\n");
     int n = 3, m = 12, k = 25; // สร้าง variable ชื่อ n มีชนิดคือ integer (เอาไว้เก็บจำนวนเต็ม)
     printf("%d %d %d\n", n, m, k); // แสดงผล
@@ -11,7 +11,7 @@ int main() {
     scanf("%d", &number); // รับค่า
     printf("%d\n", number);
     
-    // Data Type
+    // Variable and Data Type
     // มีอยู่หลายอย่าง เช่น int, float, char, (long, double, pointer, etc.)
     printf("- DATA TYPE -\n");
     int integer; // ex. 3, 5, 18

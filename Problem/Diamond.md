@@ -6,6 +6,6 @@
 
 | Input | Output |
 | :---- | :----- |
-|   <p align="center">1</p>   | -      |
-|   <p align="center">3</p>   | * - * <br> - - - <br> * - * |
-|   <p align="center">7</p>   | * * * - * * * <br> * * - - - * *  <br> * - - - - - * <br> - - - - - - - <br> * - - - - - * <br> * * - - - * * <br> * * * - * * * |
+|   <p align="center">1</p>   | *      |
+|   <p align="center">3</p>   | - * - <br> * * * <br> - * - |
+|   <p align="center">7</p>   | - - - * - - - <br> - - * * * - -  <br> - * * * * * - <br> * * * * * * * <br> - * * * * * - <br> - - * * * - - <br> - - - * - - - |

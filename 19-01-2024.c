@@ -1,12 +1,13 @@
 #include <stdio.h>
 
 int main() {
-    printf("- ASCII -\n");
+    printf("- Ascii -\n");
     char c = 'A';
     // จำแค่ 3 ตัวก็พอ
     // ascii: '0'=48, 'A'=65, 'a'=97
     printf("%d", c);
     
+    printf("- String -\n");
     char a[100] = "Hello"; //array of character = string
     for (int i = 0 ; i < 5 ; i++) {
         printf("%c", a[i]);
